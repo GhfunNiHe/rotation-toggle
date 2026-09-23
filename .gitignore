@@ -1,0 +1,9 @@
+# agent tooling / local notes, not part of the plasmoid
+.claude/
+.agents/
+.codex/
+MEMORY.md
+
+# build artifacts (regenerate with the commands in README)
+rotation-toggle.plasmoid
+org.kde.plasma.rotation-toggle/contents/locale/*/LC_MESSAGES/*.mo

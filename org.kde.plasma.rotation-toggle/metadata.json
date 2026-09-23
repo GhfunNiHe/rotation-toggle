@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Plasma Rotation Toggle"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Toggle screen auto-rotation - pure QML, uses kscreen-doctor",
+        "Description[zh_CN]": "屏幕自动旋转开关 - 纯 QML，调用 kscreen-doctor",
+        "EnabledByDefault": true,
+        "Icon": "transform-rotate",
+        "Id": "org.kde.plasma.rotation-toggle",
+        "License": "MIT",
+        "Name": "Screen Auto-Rotation",
+        "Name[zh_CN]": "屏幕自动旋转",
+        "Version": "1.1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "Hardware"
+}

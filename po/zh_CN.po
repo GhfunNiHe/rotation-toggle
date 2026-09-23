@@ -1,0 +1,38 @@
+# Chinese (Simplified) translations for org.kde.plasma.rotation-toggle
+# English strings in contents/ui/main.qml are the source language.
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.plasma.rotation-toggle 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: contents/ui/main.qml
+msgctxt "@item:switch"
+msgid "On"
+msgstr "开"
+
+msgctxt "@item:switch"
+msgid "Off"
+msgstr "关"
+
+msgid "Screen Auto-Rotation"
+msgstr "屏幕自动旋转"
+
+msgid "Auto-rotate: On"
+msgstr "自动旋转：开"
+
+msgid "Auto-rotate: Off"
+msgstr "自动旋转：关"
+
+msgid "Auto-rotate: on"
+msgstr "自动旋转：开"
+
+msgid "Auto-rotate: off"
+msgstr "自动旋转：关"
+
+msgid "No auto-rotating display found"
+msgstr "未检测到支持自动旋转的屏幕"
